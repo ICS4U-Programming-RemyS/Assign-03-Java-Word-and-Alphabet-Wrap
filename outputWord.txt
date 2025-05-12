@@ -1,0 +1,18 @@
+Valid case: 
+Messi
+is the
+greates
+t of
+all
+time
+
+183
+Invalid: -1 is not a valid number of characters.
+Programming is good
+Invalid: 0 is not a valid number of characters.
+Invalid:  is not a valid sentence.
+Lamine Yamal for ballon d'or
+Invalid: Hello is not a valid number of characters.
+Valid case: 
+Soccer is the best
+
